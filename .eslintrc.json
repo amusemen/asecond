@@ -24,7 +24,10 @@
     "@babel",
     "import"
   ],
-  "rules": {},
+  "rules": {
+    "import/extensions": "off",
+    "react/jsx-filename-extension": "off"
+  },
   "settings": {
     "import/parsers": {
       "@typescript-eslint/parser": [
