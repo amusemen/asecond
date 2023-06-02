@@ -21,7 +21,8 @@
     "react",
     "react-hooks",
     "unicorn",
-    "@babel"
+    "@babel",
+    "import"
   ],
   "rules": {},
   "settings": {
